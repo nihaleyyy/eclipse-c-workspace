@@ -1,0 +1,12 @@
+15:27:06 **** Rebuild of configuration Debug for project aa ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\aa.o" "..\\src\\aa.c" 
+..\src\aa.c: In function 'main':
+..\src\aa.c:21:10: error: invalid operands to binary < (have 'complex int' and 'int')
+..\src\aa.c:21:20: error: expected ';' before ')' token
+..\src\aa.c: At top level:
+..\src\aa.c:40:2: error: expected identifier or '(' before 'return'
+..\src\aa.c:41:1: error: expected identifier or '(' before '}' token
+
+15:27:06 Build Failed. 4 errors, 0 warnings. (took 162ms)
+

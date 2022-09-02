@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : even.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+	int limit=10,i;
+	printf("Enter a Even number");
+	scanf("%d",&e);
+	for(i=2;i<=limit;i++){
+		if(i%2==0){
+			printf("%d",i);
+		}
+	}
+
+	return EXIT_SUCCESS;
+}

@@ -1,0 +1,7 @@
+16:31:27 **** Incremental Build of configuration Debug for project sum of 2 (asmnt 2 q2) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sum of 2 (asmnt 2 q2).o" "..\\src\\sum of 2 (asmnt 2 q2).c" 
+gcc -o "sum of 2 (asmnt 2 q2).exe" "src\\sum of 2 (asmnt 2 q2).o" 
+
+16:31:27 Build Finished. 0 errors, 0 warnings. (took 394ms)
+

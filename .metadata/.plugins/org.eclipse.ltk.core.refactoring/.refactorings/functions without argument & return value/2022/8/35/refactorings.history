@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;functions without argument &amp; return value/src/aa.c&apos; to &apos;functions without argument &amp; return value.c&apos;" description="Rename resource &apos;aa.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/aa.c" name="functions without argument &amp; return value.c" stamp="1661319941939" updateReferences="true"/>
+</session>

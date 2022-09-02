@@ -1,0 +1,7 @@
+12:17:09 **** Incremental Build of configuration Debug for project mark (asmnt 3 q1) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\mark (asmnt 3 q1).o" "..\\src\\mark (asmnt 3 q1).c" 
+gcc -o "mark (asmnt 3 q1).exe" "src\\mark (asmnt 3 q1).o" 
+
+12:17:09 Build Finished. 0 errors, 0 warnings. (took 488ms)
+

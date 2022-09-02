@@ -1,0 +1,7 @@
+12:17:56 **** Incremental Build of configuration Debug for project sum of odd num (asmnt 4 q2) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sum of odd num (asmnt 4 q2).o" "..\\src\\sum of odd num (asmnt 4 q2).c" 
+gcc -o "sum of odd num (asmnt 4 q2).exe" "src\\sum of odd num (asmnt 4 q2).o" 
+
+12:17:56 Build Finished. 0 errors, 0 warnings. (took 352ms)
+

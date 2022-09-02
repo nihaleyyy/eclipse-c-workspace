@@ -1,0 +1,11 @@
+10:12:03 **** Incremental Build of configuration Debug for project prime number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime number.o" "..\\src\\prime number.c" 
+..\src\prime number.c: In function 'main':
+..\src\prime number.c:21:4: error: 'flag' undeclared (first use in this function)
+..\src\prime number.c:21:4: note: each undeclared identifier is reported only once for each function it appears in
+..\src\prime number.c:28:29: error: expected ')' before ';' token
+..\src\prime number.c:29:3: error: expected ';' before '}' token
+
+10:12:03 Build Failed. 3 errors, 0 warnings. (took 156ms)
+

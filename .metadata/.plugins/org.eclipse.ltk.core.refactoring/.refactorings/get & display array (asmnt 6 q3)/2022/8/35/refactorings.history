@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;get &amp; display array (asmnt 6 q3)/src/1.c&apos; to &apos;get &amp; display array (asmnt 6 q3).c&apos;" description="Rename resource &apos;1.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/1.c" name="get &amp; display array (asmnt 6 q3).c" stamp="1661335644102" updateReferences="true"/>
+</session>

@@ -1,0 +1,16 @@
+12:22:56 **** Incremental Build of configuration Debug for project palindrome or not (asmnt 6 q1) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\palindrome or not (asmnt 6 q1).o" "..\\src\\palindrome or not (asmnt 6 q1).c" 
+..\src\palindrome or not (asmnt 6 q1).c: In function 'main':
+..\src\palindrome or not (asmnt 6 q1).c:21:2: warning: implicit declaration of function 'strlen'
+..\src\palindrome or not (asmnt 6 q1).c:21:8: warning: incompatible implicit declaration of built-in function 'strlen'
+..\src\palindrome or not (asmnt 6 q1).c:23:32: error: expected ')' before '{' token
+..\src\palindrome or not (asmnt 6 q1).c:27:2: error: expected expression before '}' token
+..\src\palindrome or not (asmnt 6 q1).c: At top level:
+..\src\palindrome or not (asmnt 6 q1).c:35:2: error: expected identifier or '(' before 'return'
+..\src\palindrome or not (asmnt 6 q1).c:36:1: error: expected identifier or '(' before '}' token
+..\src\palindrome or not (asmnt 6 q1).c: In function 'main':
+..\src\palindrome or not (asmnt 6 q1).c:34:2: warning: control reaches end of non-void function
+
+12:22:57 Build Failed. 4 errors, 3 warnings. (took 163ms)
+

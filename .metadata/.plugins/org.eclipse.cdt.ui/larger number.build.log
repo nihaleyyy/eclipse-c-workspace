@@ -1,0 +1,7 @@
+10:05:40 **** Incremental Build of configuration Debug for project larger number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\larger number.o" "..\\src\\larger number.c" 
+gcc -o "larger number.exe" "src\\larger number.o" 
+
+10:05:40 Build Finished. 0 errors, 0 warnings. (took 374ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sum of two 2d array (asmnt 6 q2)/src/2d array (asmnt 6 q2).c&apos; to &apos;sum of two 2d array (asmnt 6 q2).c&apos;" description="Rename resource &apos;2d array (asmnt 6 q2).c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/2d array (asmnt 6 q2).c" name="sum of two 2d array (asmnt 6 q2).c" stamp="1661327146850" updateReferences="true"/>
+</session>

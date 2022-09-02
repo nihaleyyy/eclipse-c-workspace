@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;break/src/continue.c&apos; to &apos;break.c&apos;" description="Rename resource &apos;continue.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/continue.c" name="break.c" stamp="1661233290250" updateReferences="true"/>
+</session>

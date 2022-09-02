@@ -1,0 +1,10 @@
+10:22:36 **** Incremental Build of configuration Debug for project prime or non prime ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime or non prime.o" "..\\src\\prime or non prime.c" 
+..\src\prime or non prime.c:31:2: error: expected identifier or '(' before 'return'
+..\src\prime or non prime.c:32:1: error: expected identifier or '(' before '}' token
+..\src\prime or non prime.c: In function 'main':
+..\src\prime or non prime.c:30:2: warning: control reaches end of non-void function
+
+10:22:37 Build Failed. 2 errors, 1 warnings. (took 103ms)
+

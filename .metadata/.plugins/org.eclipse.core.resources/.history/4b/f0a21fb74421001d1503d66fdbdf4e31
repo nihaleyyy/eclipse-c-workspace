@@ -1,0 +1,27 @@
+/*
+ ============================================================================
+ Name        : simple.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+	int p:
+	float r,n;
+	float si;
+	printf("enter the principal amount",p);
+	printf("enter the interest rate",r);
+	printf("enter the no of yers",n);
+	scanf("%d%f%f",&p,&r,&n)
+	si=(float)(p*r*n)/100;
+	printf("The simple interest is : %f",si);
+
+	return EXIT_SUCCESS;
+}

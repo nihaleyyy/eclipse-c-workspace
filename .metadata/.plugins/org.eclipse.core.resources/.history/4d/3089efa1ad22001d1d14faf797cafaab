@@ -1,0 +1,27 @@
+/*
+ ============================================================================
+ Name        : multiplication.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+	int n,i,mult;
+	printf("Enter the Number");
+	scanf("%d",&n);
+	printf("table of %d \n",n);
+	for(i=0;i<1;i++){
+		printf("%d",i);
+		printf("%d",n);
+		mult=i*n;
+		printf("%d \n",mult);
+	}
+	return EXIT_SUCCESS;
+}

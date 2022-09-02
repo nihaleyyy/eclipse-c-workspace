@@ -1,0 +1,7 @@
+11:22:38 **** Incremental Build of configuration Debug for project non prime or prime ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\non prime or prime.o" "..\\src\\non prime or prime.c" 
+gcc -o "non prime or prime.exe" "src\\non prime or prime.o" 
+
+11:22:38 Build Finished. 0 errors, 0 warnings. (took 450ms)
+

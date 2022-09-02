@@ -1,0 +1,7 @@
+08:55:33 **** Incremental Build of configuration Debug for project simple innterest(asmnt2 q3) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\simple innterest(asmnt2 q3).o" "..\\src\\simple innterest(asmnt2 q3).c" 
+gcc -o "simple innterest(asmnt2 q3).exe" "src\\simple innterest(asmnt2 q3).o" 
+
+08:55:33 Build Finished. 0 errors, 0 warnings. (took 479ms)
+

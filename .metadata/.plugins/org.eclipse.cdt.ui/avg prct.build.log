@@ -1,0 +1,7 @@
+15:25:49 **** Incremental Build of configuration Debug for project avg prct ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\avg prct.o" "..\\src\\avg prct.c" 
+gcc -o "avg prct.exe" "src\\avg prct.o" 
+
+15:25:49 Build Finished. 0 errors, 0 warnings. (took 560ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pattern printing resverse/src/pattern printing.c&apos; to &apos;pattern printing reverse.c&apos;" description="Rename resource &apos;pattern printing.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/pattern printing.c" name="pattern printing reverse.c" stamp="1661233746411" updateReferences="true"/>
+</session>

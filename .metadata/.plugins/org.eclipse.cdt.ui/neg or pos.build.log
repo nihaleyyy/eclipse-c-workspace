@@ -1,0 +1,15 @@
+09:52:30 **** Rebuild of configuration Debug for project neg or pos ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\neg or pos.o" "..\\src\\neg or pos.c" 
+..\src\neg or pos.c: In function 'main':
+..\src\neg or pos.c:15:9: error: 'std' undeclared (first use in this function)
+..\src\neg or pos.c:15:9: note: each undeclared identifier is reported only once for each function it appears in
+..\src\neg or pos.c:15:13: error: expected ')' before 'out'
+..\src\neg or pos.c:15:13: error: too few arguments to function 'setbuf'
+c:\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/include/stdio.h:234:16: note: declared here
+..\src\neg or pos.c:20:10: warning: character constant too long for its type
+..\src\neg or pos.c:20:3: warning: passing argument 1 of 'printf' makes pointer from integer without a cast
+c:\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/include/stdio.h:217:15: note: expected 'const char * __restrict__' but argument is of type 'int'
+
+09:52:31 Build Failed. 3 errors, 2 warnings. (took 107ms)
+

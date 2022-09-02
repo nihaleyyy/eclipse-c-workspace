@@ -1,0 +1,9 @@
+09:43:34 **** Incremental Build of configuration Debug for project negative or positive ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\negative or positive.o" "..\\src\\negative or positive.c" 
+..\src\negative or positive.c: In function 'main':
+..\src\negative or positive.c:18:2: warning: too few arguments for format
+..\src\negative or positive.c:23:2: error: expected ';' before '}' token
+
+09:43:34 Build Failed. 1 errors, 1 warnings. (took 212ms)
+
